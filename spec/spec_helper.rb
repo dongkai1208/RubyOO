@@ -1,0 +1,7 @@
+require 'rspec'
+require_relative '../lib/parkinglot'
+require_relative '../lib/car'
+require_relative '../lib/receipt'
+require_relative '../lib/parking_boy'
+require_relative '../lib/smart_parking_boy'
+require_relative '../lib/smarter_parking_boy'
